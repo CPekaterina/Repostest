@@ -9,6 +9,8 @@ float p2 (float x, int i, float *y);
 float p3 (float x, int i, float *y);
 void write(float *y, int x);
 
+//Don't forget the comments!
+
 int main()
 {
     int stepnum;
